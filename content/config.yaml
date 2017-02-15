@@ -2,5 +2,5 @@ bride: !!str Chloé
 groom: !!str Yves-Emmanuel
 date: !!timestamp 2017-07-01
 languages: !!seq [ fr, en ]
-password: !!str secret
+password: !!str cye2017
 contact: !!str ye.jutard+mariage@gmail.com
