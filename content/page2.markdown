@@ -19,7 +19,7 @@ coordinates: xxx
 
 Online booking
 
-You can book your train ticket on the [sncf-voyages website](https://uk.voyages-sncf.com/en/)
+You can book your train ticket on the [sncf-voyages website](https://uk.voyages-sncf.com/en/).
 Opt for the journey Paris->Lannion or the journey Paris->Guingamp
 
 After booking,
