@@ -11,11 +11,28 @@ coordinates: xxx
 
 ## Venue
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+ ### By car
 
-Morbi rhoncus arcu felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at turpis ut quam ornare auctor quis venenatis diam. Praesent fringilla dui nec tortor hendrerit, nec elementum dui hendrerit. Integer nec sapien sit amet enim commodo rhoncus. Donec nec nisl pretium, ultrices tortor id, ornare enim. Etiam pellentesque malesuada risus at imperdiet. Vivamus ac eleifend purus. Ut bibendum turpis eu orci pharetra, eget porttitor orci bibendum. Sed at orci nec quam cursus consectetur sit amet sed velit. Vestibulum ut tempor sem. Vivamus id sem tortor. Sed ut lacus venenatis, rhoncus orci vel, accumsan augue.
+ From Rennes, take the direction of Lamballe, Saint-Brieuc, Paimpol, and then Tréguier.
 
-Pellentesque velit sem, feugiat at magna eu, tristique scelerisque purus. Praesent a lorem lorem. Praesent commodo rhoncus nisi, vel tempus massa egestas et. Maecenas ac fringilla magna. Mauris ullamcorper laoreet magna, eget ullamcorper libero consequat sed. Quisque eu faucibus magna. Maecenas dictum porta sem sit amet tincidunt. Vestibulum ac malesuada augue. Suspendisse vestibulum ex non tempor cursus.
+### En train
+
+Online booking
+
+You can book your train ticket on the sncf-voyages website (https://uk.voyages-sncf.com/en/)
+Opt for the journey Paris->Lannion or the journey Paris->Guingamp
+
+After booking,
+From Paris Montparnasse train station, take the TGV to Brest (final destination) and get off at the station of Guingamp or Lannion (approximatively 3h30 train journey).
+
+Guingamp and Lannion are both located at 30 minutes drive to Plouguiel.
+Wherever you get off, Lannion or Guigamp, you will find the usual car rental operators (Europcar, Avis, etc).
+
+### By plane
+
+Lannion airport is served by Hop, with a everyday line Paris Orly-Lannion except on Saturday samedi.
+Lannion is located at 30 minutes drive to Plouguiel.
+At the airport, you will find the usual car rental operators (Europcar, Avis, etc).
 
 `fr`
 
