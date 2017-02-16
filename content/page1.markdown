@@ -8,12 +8,12 @@ picture: "save0001.png"
 ---
 `en`
 
-## Welcome to our wedding
+##Welcome to our wedding
 
-Hello [world](http://www.google.com)
+###Ready for the D-Day ?
 
 `fr`
 
-## Bienvenue à notre mariage
+##Bienvenue à notre mariage
 
-### Préparez-vous pour le jour J
+###Préparez-vous pour le jour J
