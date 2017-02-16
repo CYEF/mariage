@@ -10,13 +10,13 @@ picture: "day.jpg"
 
 ## The Wedding Day
 
-###### The religious ceremony
+### The religious ceremony
  
  The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 3:30PM.
  
  [Map](https://www.google.ch/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
  
-###### The cocktail/ Dinner
+### The cocktail/ Dinner
  
  After the ceremony, we will welcome you at Kergoulas for the cocktail.
  
@@ -28,7 +28,7 @@ picture: "day.jpg"
 
 ## Le jour J
 
-###### La cérémonie
+### La cérémonie
 
  La messe de mariage est célébrée à la cathédrale Saint-Tugdual de Tréguier à 15h30.
 
@@ -36,7 +36,7 @@ picture: "day.jpg"
 
  
 
-###### La réception
+### La réception
 
 Après la cérémonie religieuse, nous vous accueillons à Kergoulas pour la réception,
 
