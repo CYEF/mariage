@@ -10,7 +10,7 @@ picture: "stay.jpg"
 
 ##Stay the WE
 
-Here a few nice landmarks worth to visit in the Tregor :
+Here a few worth to visit landmarks in the Tregor :
 
 Tréguier city
 
@@ -30,7 +30,7 @@ Beauport abbey
 
 [Bréhat island](http://uk.paimpol-goelo.com/discover/brehat-islands-all-five-senses)
 
-[The Pellinec gardens](http://www.tregor-cotedajoncs-tourisme.com/welcome.php)in Penvenan 
+[The Pellinec gardens](http://www.tregor-cotedajoncs-tourisme.com/welcome.php) in Penvenan 
 
 The port in Penvénan: Port-Blanc
 
@@ -50,7 +50,7 @@ Vous trouverez ici quelques idées de belles visites pour prolonger votre week-e
 
 La ville de Tréguier
 
-[La brasserie Touken](http://www.philomenn.com/)à Tréguier   
+[La brasserie Touken](http://www.philomenn.com/) à Tréguier   
 
 La ville de Plougrescant
 
