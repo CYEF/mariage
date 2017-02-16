@@ -21,21 +21,28 @@ Pellentesque velit sem, feugiat at magna eu, tristique scelerisque purus. Praese
 
 ## Comment venir ?
 
-Pour se rendre à XXX :
+Pour se rendre dans les Côtes d’Armor depuis la France :
 
 
 ### En voiture
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+ A partir de Rennes, prendre la direction de Lamballe, Saint-Brieuc, Paimpol, puis enfin Tréguier.
 
-[Imprimer l’itinéraire détaillé](www.google.com)
+[Imprimer l’itinéraire détaillé](http://ludin.javerzac.com/wp-contenu/uploads/pour-venir-chez-nous.pdf)
 
 ### En train
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+ Prendre la ligne TGV Paris-Lannion
+
+ou la ligne TGV Paris-Guingamp: A partir de Paris (gare Montparnasse), prendre le TGV en direction de Brest et descendre à la gare de Guingamp (environ 3h30 de trajet). Guingamp se trouve à 30 minutes en voiture de Plouguiel.
+
+A Lannion, comme à Guigamp, vous trouverez les prestataires de location de voiture habituels (Europcar, Avis, etc).
 
 ### En avion
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.ggg
+L’aéroport de Lannion est desservi par Hop, avec une ligne Paris Orly-Lannion tous les jours sauf le samedi.
+Lannion se situe à 30 minutes en voiture de Plouguiel.
 
-[Imprimer l’itinéraire détaillé](www.google.com)
+Vous trouverez les prestataires de location de voiture habituels à l’aéroport de Lannion (Europcar, Avis, etc).
+
+[Imprimer l’itinéraire détaillé](http://ludin.javerzac.com/wp-contenu/uploads/pour-venir-chez-nous.pdf)
