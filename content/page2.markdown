@@ -30,7 +30,7 @@ Wherever you get off, Lannion or Guigamp, you will find the usual car rental ope
 
 ###By plane
 
-Lannion airport is served by Hop, with a everyday line Paris Orly-Lannion except on Saturday samedi.
+Lannion airport is served by Hop, with a everyday line Paris Orly-Lannion except on Saturday.
 Lannion is located at 30 minutes drive to Plouguiel.
 At the airport, you will find the usual car rental operators (Europcar, Avis, etc).
 
