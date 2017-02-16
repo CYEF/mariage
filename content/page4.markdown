@@ -8,20 +8,72 @@ picture: "stay.jpg"
 ---
 `en`
 
-## Stay the WE
+##Stay the WE
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+Here a few nice landmarks worth to visit in the Tregor :
 
-Morbi rhoncus arcu felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at turpis ut quam ornare auctor quis venenatis diam. Praesent fringilla dui nec tortor hendrerit, nec elementum dui hendrerit. Integer nec sapien sit amet enim commodo rhoncus. Donec nec nisl pretium, ultrices tortor id, ornare enim. Etiam pellentesque malesuada risus at imperdiet. Vivamus ac eleifend purus. Ut bibendum turpis eu orci pharetra, eget porttitor orci bibendum. Sed at orci nec quam cursus consectetur sit amet sed velit. Vestibulum ut tempor sem. Vivamus id sem tortor. Sed ut lacus venenatis, rhoncus orci vel, accumsan augue.
+Tréguier city
 
-Pellentesque velit sem, feugiat at magna eu, tristique scelerisque purus. Praesent a lorem lorem. Praesent commodo rhoncus nisi, vel tempus massa egestas et. Maecenas ac fringilla magna. Mauris ullamcorper laoreet magna, eget ullamcorper libero consequat sed. Quisque eu faucibus magna. Maecenas dictum porta sem sit amet tincidunt. Vestibulum ac malesuada augue. Suspendisse vestibulum ex non tempor cursus.
+Beer manufacturer Touken in Tréguier   
+
+Plougrescant city
+
+The chapel Saint-Gonéry
+
+The Abyss of Plougrescant
+
+The Castel Meur house
+
+[Paimpol city](http://uk.paimpol-goelo.com/)
+
+Beauport abbey
+
+[Bréhat island](http://uk.paimpol-goelo.com/discover/brehat-islands-all-five-senses)
+
+[The Pellinec gardens](http://www.tregor-cotedajoncs-tourisme.com/welcome.php)in Penvenan 
+
+The port in Penvénan: Port-Blanc
+
+Talbert furrow (Pleubian)
+
+The port in Buguéles
+
+The Roche Jagu castel
+
+[The Whisky manufacturer of Armorik](http://distillerie-warenghem.com/en/) in Lannion   
 
 `fr`
 
-## Prolonger son WE
+##Prolonger son WE
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+Vous trouverez ici quelques idées de belles visites pour prolonger votre week-end dans le Trégor:
 
-Morbi rhoncus arcu felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at turpis ut quam ornare auctor quis venenatis diam. Praesent fringilla dui nec tortor hendrerit, nec elementum dui hendrerit. Integer nec sapien sit amet enim commodo rhoncus. Donec nec nisl pretium, ultrices tortor id, ornare enim. Etiam pellentesque malesuada risus at imperdiet. Vivamus ac eleifend purus. Ut bibendum turpis eu orci pharetra, eget porttitor orci bibendum. Sed at orci nec quam cursus consectetur sit amet sed velit. Vestibulum ut tempor sem. Vivamus id sem tortor. Sed ut lacus venenatis, rhoncus orci vel, accumsan augue.
+La ville de Tréguier
 
-Pellentesque velit sem, feugiat at magna eu, tristique scelerisque purus. Praesent a lorem lorem. Praesent commodo rhoncus nisi, vel tempus massa egestas et. Maecenas ac fringilla magna. Mauris ullamcorper laoreet magna, eget ullamcorper libero consequat sed. Quisque eu faucibus magna. Maecenas dictum porta sem sit amet tincidunt. Vestibulum ac malesuada augue. Suspendisse vestibulum ex non tempor cursus.
+[La brasserie Touken](http://www.philomenn.com/)à Tréguier   
+
+La ville de Plougrescant
+
+La chapelle Saint-Gonéry
+
+Le gouffre de Plougrescant
+
+La maison Castel Meur
+
+[La ville de Paimpol](http://www.paimpol-goelo.com/)
+
+[L’abbaye de Beauport](http://abbayebeauport.com/)
+
+[L’archipel de Bréhat](http://www.paimpol-goelo.com/decouvrir/brehat%C2%A0-un-archipel-de-sensations)
+
+Le[jardin de Pellinec](http://www.tregor-cotedajoncs-tourisme.com/fr/loisirs-terre/visites-jardins.php) à Penvenan
+
+Le sillon de Talbert (Pleubian)
+
+Le port de Buguéles
+
+Le port de Penvénan: Port-Blanc
+
+[Le château de la Roche Jagu](http://www.larochejagu.fr/_v2/lrj/index.php?page=presentation)
+
+[La distillerie de whisky d’Armorik](http://distillerie-warenghem.com/fr/) à Lannion   
