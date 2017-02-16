@@ -10,18 +10,38 @@ picture: "day.jpg"
 
 ## The Wedding Day
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+ ### The religious ceremony
+ 
+ The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 3:30PM.
+ 
+ Map
+ https://www.google.ch/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251
+ 
+ ### The cocktail/ Dinner
+ 
+ After the ceremony, we will welcome you at Kergoulas for the cocktail.
+ 
+ Address : 5 Kergoulas, 22220 Plouguiel
 
-Morbi rhoncus arcu felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at turpis ut quam ornare auctor quis venenatis diam. Praesent fringilla dui nec tortor hendrerit, nec elementum dui hendrerit. Integer nec sapien sit amet enim commodo rhoncus. Donec nec nisl pretium, ultrices tortor id, ornare enim. Etiam pellentesque malesuada risus at imperdiet. Vivamus ac eleifend purus. Ut bibendum turpis eu orci pharetra, eget porttitor orci bibendum. Sed at orci nec quam cursus consectetur sit amet sed velit. Vestibulum ut tempor sem. Vivamus id sem tortor. Sed ut lacus venenatis, rhoncus orci vel, accumsan augue.
-
-Pellentesque velit sem, feugiat at magna eu, tristique scelerisque purus. Praesent a lorem lorem. Praesent commodo rhoncus nisi, vel tempus massa egestas et. Maecenas ac fringilla magna. Mauris ullamcorper laoreet magna, eget ullamcorper libero consequat sed. Quisque eu faucibus magna. Maecenas dictum porta sem sit amet tincidunt. Vestibulum ac malesuada augue. Suspendisse vestibulum ex non tempor cursus.
+Map https://www.google.ch/maps/dir/Kergoulas/Tr%C3%A9guier,+Frankreich/@48.7947782,-3.2525729,15z/data=!4m13!4m12!1m5!1m1!1s0x4812236fda288201:0xd69757f572daff23!2m2!1d-3.255858!2d48.8042609!1m5!1m1!1s0x481223aeb066bae5:0xf329f250f04a34b3!2m2!1d-3.2307769!2d48.7875439
 
 `fr`
 
 ## Le jour J
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+###La cérémonie
 
-Morbi rhoncus arcu felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at turpis ut quam ornare auctor quis venenatis diam. Praesent fringilla dui nec tortor hendrerit, nec elementum dui hendrerit. Integer nec sapien sit amet enim commodo rhoncus. Donec nec nisl pretium, ultrices tortor id, ornare enim. Etiam pellentesque malesuada risus at imperdiet. Vivamus ac eleifend purus. Ut bibendum turpis eu orci pharetra, eget porttitor orci bibendum. Sed at orci nec quam cursus consectetur sit amet sed velit. Vestibulum ut tempor sem. Vivamus id sem tortor. Sed ut lacus venenatis, rhoncus orci vel, accumsan augue.
+ La messe de mariage est célébrée à la cathédrale Saint-Tugdual de Tréguier à 15h30.
 
-Pellentesque velit sem, feugiat at magna eu, tristique scelerisque purus. Praesent a lorem lorem. Praesent commodo rhoncus nisi, vel tempus massa egestas et. Maecenas ac fringilla magna. Mauris ullamcorper laoreet magna, eget ullamcorper libero consequat sed. Quisque eu faucibus magna. Maecenas dictum porta sem sit amet tincidunt. Vestibulum ac malesuada augue. Suspendisse vestibulum ex non tempor cursus.
+Plan d’accès
+https://www.google.ch/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251
+
+ 
+
+###La réception
+
+Après la cérémonie religieuse, nous vous accueillons à Kergoulas pour la réception,
+
+au 5 Kergoulas, 22220 Plouguiel
+
+Plan d’accès https://www.google.ch/maps/dir/Kergoulas/Tr%C3%A9guier,+Frankreich/@48.7947782,-3.2525729,15z/data=!4m13!4m12!1m5!1m1!1s0x4812236fda288201:0xd69757f572daff23!2m2!1d-3.255858!2d48.8042609!1m5!1m1!1s0x481223aeb066bae5:0xf329f250f04a34b3!2m2!1d-3.2307769!2d48.7875439
