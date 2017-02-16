@@ -11,12 +11,17 @@ picture: "letter.png"
 ## Contact
 
 Please feel free to contact us :
+
 ye.jutard@gmail.com
+
 chloe.javerzac@gmail.com
 
 We are also on :
+
 Facebook
+
 Instagram
+
 Linkedin
 
 `fr`
@@ -24,10 +29,15 @@ Linkedin
 ## Contact
 
 N'hésitez pas à nous contacter via nos adresses :
+
 ye.jutard@gmail.com
+
 chloe.javerzac@gmail.com
 
 Aussi sur :
+
 Facebook
+
 Instagram
+
 Linkedin
