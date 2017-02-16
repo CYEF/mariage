@@ -10,13 +10,13 @@ picture: "letter.png"
 
 ## Contact
 
-Please feel free to contact us :
+### Please feel free to contact us :
 
 ye.jutard@gmail.com
 
 chloe.javerzac@gmail.com
 
-We are also on :
+### We are also on :
 
 Facebook
 
@@ -28,13 +28,13 @@ Linkedin
 
 ## Contact
 
-N'hésitez pas à nous contacter via nos adresses :
+### N'hésitez pas à nous contacter via nos adresses :
 
 ye.jutard@gmail.com
 
 chloe.javerzac@gmail.com
 
-Aussi sur :
+### Aussi sur :
 
 Facebook
 
