@@ -15,7 +15,7 @@ coordinates: xxx
 
  From Rennes, take the direction of Lamballe, Saint-Brieuc, Paimpol, and then Tréguier.
 
-### En train
+ ### By train
 
 Online booking
 
@@ -28,7 +28,7 @@ From Paris Montparnasse train station, take the TGV to Brest (final destination)
 Guingamp and Lannion are both located at 30 minutes drive to Plouguiel.
 Wherever you get off, Lannion or Guigamp, you will find the usual car rental operators (Europcar, Avis, etc).
 
-### By plane
+ ### By plane
 
 Lannion airport is served by Hop, with a everyday line Paris Orly-Lannion except on Saturday samedi.
 Lannion is located at 30 minutes drive to Plouguiel.
