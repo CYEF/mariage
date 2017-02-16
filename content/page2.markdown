@@ -36,6 +36,6 @@ Pour se rendre à XXX :
 
 ### En avion
 
- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.
+ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate. Proin urna sapien, pulvinar hendrerit rutrum at, mollis vel justo. Etiam congue interdum nunc quis vehicula. Suspendisse eget arcu eu neque feugiat consequat at non mi. Aenean rutrum lacinia enim, eu vulputate velit tempor vitae. Nullam lacinia egestas venenatis. Etiam vestibulum massa eget nisl feugiat cursus. Mauris cursus imperdiet laoreet. Quisque malesuada lectus et orci rhoncus, ut suscipit elit gravida.ggg
 
 [Imprimer l’itinéraire détaillé](www.google.com)
