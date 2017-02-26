@@ -13,14 +13,14 @@ points:
       en: "Kergoulas"
       fr: "Kergoulas"
     coordinates:
-      - 48.804
-      - 3.255
+      - 48.804988
+      - -3.255620
   - labels:
       en: "Cathedral Saint-Tugdual of Tréguier"
       fr: "Cathédrale Saint-Tugdual de Tréguier"
     coordinates:
-      - 48.787
-      - 3.231
+      - 48.787607
+      - -3.230776
 ---
 `en`
 
