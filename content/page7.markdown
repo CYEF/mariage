@@ -10,12 +10,35 @@ picture: "letter_blank.png"
 
 ## Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate.
+### Please feel free to contact us :
 
+ye.jutard@gmail.com
+
+chloe.javerzac@gmail.com
+
+### We are also on :
+
+Facebook
+
+Instagram
+
+Linkedin
 
 
 `fr`
 
 ## Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam gravida leo id est bibendum vulputate.
+### N'hésitez pas à nous contacter via nos adresses :
+
+ye.jutard@gmail.com
+
+chloe.javerzac@gmail.com
+
+### Aussi sur :
+
+Facebook
+
+Instagram
+
+Linkedin

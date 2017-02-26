@@ -4,7 +4,7 @@ anchor:
   fr: "Liste de mariage"
 background: ""
 layout: default
-picture: "gifts.jpg"
+picture: "gifts.png"
 ---
 `en`
 
@@ -12,7 +12,7 @@ picture: "gifts.jpg"
 
 ### Coming from so far away is the most wonderful gift !
 
-A traditional wedding list is [available here](www.google.com).
+Here you will find [the wedding list](http://www.millemercismariage.com/chyej01072017wedding) with all our dreamed gifts ;)
 
 
 
@@ -22,4 +22,4 @@ A traditional wedding list is [available here](www.google.com).
 
 ### Venir d'aussi loin est le plus beau cadeau !
 
-Une liste de mariage traditionelle est [disponible ici](www.google.com).
+Vous trouverez ici [la liste de mariage](http://www.millemercismariage.com/chyej01072017wedding) avec tous les cadeaux de nos rêves les plus fous ;)

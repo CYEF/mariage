@@ -1,7 +1,7 @@
-bride: !!str Alice
-groom: !!str Bob
+bride: !!str Chloé
+groom: !!str Yves-Emmanuel
 date: !!timestamp 2017-07-01
 languages: !!seq [ fr, en ]
-password: !!str secret
-contact: !!str offirmo.net+demo-minisite-wedding@gmail.com
-mapbox_access_token: !!str <get a token for free by registering on https://www.mapbox.com/>
+password: !!str cye2017
+contact: !!str ye.jutard+mariage@gmail.com
+mapbox_access_token: !!str pk.eyJ1IjoiY2hyZW1vdGUiLCJhIjoiY2l6a3lmdDF2MDBzbDMyazdnbjRsNWs5YSJ9._PjiP17lrjpNOBMeejWtcw

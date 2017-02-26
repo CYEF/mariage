@@ -10,8 +10,11 @@ picture: "looking_at_map.png"
 
 ## On the way to our wedding !
 
+### Ready for the D-Day ?
 
 
 `fr`
 
 ## En route pour notre mariage !
+
+###Préparez-vous pour le jour J
