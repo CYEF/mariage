@@ -17,4 +17,4 @@ picture: "looking_at_map.png"
 
 ## En route pour notre mariage !
 
-###Préparez-vous pour le jour J
+### Préparez-vous pour le jour J

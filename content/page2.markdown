@@ -4,6 +4,7 @@ anchor:
   fr: "Où et comment ?"
 background: ""
 layout: map
+radius: 13
 points:
   - labels:
       en: "Kergoulas"
