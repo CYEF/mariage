@@ -4,10 +4,6 @@ anchor:
   fr: "Où et comment ?"
 background: ""
 layout: map
-map_center_coordinates:
-  - 48.850
-  - 3.240
-map_radius: 14
 points:
   - labels:
       en: "Kergoulas"
