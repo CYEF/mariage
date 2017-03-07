@@ -12,7 +12,7 @@ picture: "gifts.png"
 
 ### Coming from so far away is the most wonderful gift !
 
-Here you will find [the wedding list](http://www.millemercismariage.com/chyej01072017wedding) with all our dreamed gifts ;)
+Here you will find [the wedding list](http://www.millemercismariage.com/chyej01072017wedding) with all our dream gifts ;)
 
 
 

@@ -31,12 +31,13 @@ From Rennes, take the direction of Lamballe, Saint-Brieuc, Paimpol, and then TrÃ
 
 ### By train
 
-Online booking
+#### Online booking
 
 You can book your train ticket on the [sncf-voyages website](https://uk.voyages-sncf.com/en/).
 Opt for the journey Paris->Lannion or the journey Paris->Guingamp
 
-After booking,
+#### After booking
+
 From Paris Montparnasse train station, take the TGV to Brest (final destination) and get off at the station of Guingamp or Lannion (approximatively 3h30 train journey).
 
 Guingamp and Lannion are both located at 30 minutes drive to Plouguiel.

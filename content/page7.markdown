@@ -20,7 +20,9 @@ chloe.javerzac@gmail.com
 
 Facebook
 
-Instagram
+[Instagram Chloé](https://www.instagram.com/chloejaverzac/)
+
+[Instagram Yves-Emmanuel](https://www.instagram.com/yjutard/)
 
 
 
@@ -38,4 +40,6 @@ chloe.javerzac@gmail.com
 
 Facebook
 
-Instagram
+[Instagram Chloé](https://www.instagram.com/chloejaverzac/)
+
+[Instagram Yves-Emmanuel](https://www.instagram.com/yjutard/)
