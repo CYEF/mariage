@@ -19,7 +19,7 @@ picture: "couple.png"
 
  The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 3:30PM.
 
- [Map](https://www.google.ch/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
+ [Map](https://www.google.com/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
 
 ### The cocktail/ Dinner
 
