@@ -12,9 +12,9 @@ picture: "couple.png"
 
 ### 3PM - The religious ceremony
 
- The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 3:30PM.
+The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 3PM.
 
- [Map](https://www.google.com/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
+[Map](https://www.google.com/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
 
 ### 5PM - The cocktail/ Dinner
 
@@ -22,7 +22,7 @@ picture: "couple.png"
 
  Address : 5 Kergoulas, 22220 Plouguiel
 
-[Map](https://www.google.ch/maps/dir/Kergoulas/Tr%C3%A9guier,+Frankreich/@48.7947782,-3.2525729,15z/data=!4m13!4m12!1m5!1m1!1s0x4812236fda288201:0xd69757f572daff23!2m2!1d-3.255858!2d48.8042609!1m5!1m1!1s0x481223aeb066bae5:0xf329f250f04a34b3!2m2!1d-3.2307769!2d48.7875439)
+[Map](https://www.google.fr/maps/dir/Tr%C3%A9guier,+France/Kergoulas/@48.7958284,-3.2607796,14z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x481223aeb066bae5:0xf329f250f04a34b3!2m2!1d-3.2307769!2d48.7875439!1m5!1m1!1s0x4812236fda288201:0xd69757f572daff23!2m2!1d-3.255858!2d48.8042609)
 
 
 
@@ -32,10 +32,9 @@ picture: "couple.png"
 
 ### 15h - La cérémonie
 
- La messe de mariage est célébrée à la cathédrale Saint-Tugdual de Tréguier à 15h30.
+La messe de mariage sera célébrée à la cathédrale Saint-Tugdual de Tréguier à 15h.
 
-[Plan d’accès](https://www.google.ch/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
-
+[Plan d’accès](https://www.google.com/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
 
 
 ### 17h - La réception
@@ -44,4 +43,4 @@ Après la cérémonie religieuse, nous vous accueillons à Kergoulas pour la ré
 
 au 5 Kergoulas, 22220 Plouguiel
 
-[Plan d’accès](https://www.google.ch/maps/dir/Kergoulas/Tr%C3%A9guier,+Frankreich/@48.7947782,-3.2525729,15z/data=!4m13!4m12!1m5!1m1!1s0x4812236fda288201:0xd69757f572daff23!2m2!1d-3.255858!2d48.8042609!1m5!1m1!1s0x481223aeb066bae5:0xf329f250f04a34b3!2m2!1d-3.2307769!2d48.7875439)
+[Plan d’accès](https://www.google.fr/maps/dir/Tr%C3%A9guier,+France/Kergoulas/@48.7958284,-3.2607796,14z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x481223aeb066bae5:0xf329f250f04a34b3!2m2!1d-3.2307769!2d48.7875439!1m5!1m1!1s0x4812236fda288201:0xd69757f572daff23!2m2!1d-3.255858!2d48.8042609)

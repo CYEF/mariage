@@ -59,12 +59,15 @@ Pour se rendre dans les Côtes d’Armor depuis la France :
 
 A partir de Rennes, prendre la direction de Lamballe, Saint-Brieuc, Paimpol, puis enfin Tréguier.
 
-[Imprimer l’itinéraire détaillé](http://ludin.javerzac.com/wp-contenu/uploads/pour-venir-chez-nous.pdf)
+[Imprimer l’itinéraire détaillé](/content/pour-venir-chez-nous.pdf)
 
 ### En train
 
-Prendre la ligne TGV Paris-Lannion
-ou la ligne TGV Paris-Guingamp: A partir de Paris (gare Montparnasse), prendre le TGV en direction de Brest et descendre à la gare de Guingamp (environ 3h30 de trajet). Guingamp se trouve à 30 minutes en voiture de Plouguiel.
+Prendre la ligne TGV Paris-Lannion ou la ligne TGV Paris-Guingamp
+
+À partir de Paris (gare Montparnasse), prendre le TGV en direction de Brest et descendre à la gare de Guingamp (environ 3h30 de trajet)
+
+Guingamp se trouve à 30 minutes en voiture de Plouguiel.
 
 A Lannion, comme à Guigamp, vous trouverez les prestataires de location de voiture habituels (Europcar, Avis, etc).
 
@@ -75,4 +78,5 @@ Lannion se situe à 30 minutes en voiture de Plouguiel.
 
 Vous trouverez les prestataires de location de voiture habituels à l’aéroport de Lannion (Europcar, Avis, etc).
 
-[Imprimer l’itinéraire détaillé](http://ludin.javerzac.com/wp-contenu/uploads/pour-venir-chez-nous.pdf)
+[Imprimer l’itinéraire détaillé](/content/pour-venir-chez-nous.pdf)
+

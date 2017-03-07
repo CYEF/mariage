@@ -22,7 +22,6 @@ Facebook
 
 Instagram
 
-Linkedin
 
 
 `fr`
@@ -40,5 +39,3 @@ chloe.javerzac@gmail.com
 Facebook
 
 Instagram
-
-Linkedin
