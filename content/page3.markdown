@@ -28,6 +28,10 @@ You can book a room in a B&B or Hotel in Treguier, Plouguiel, Plougrescant, Port
 > Tél : 02.96.92.33.49<br />
 > Email : lesaintyvestreguier@gmail.com
 
+> **B&B Gilles & Veronique de Beauregard**<br />
+> Pen Gwern, 22220, Plouguiel<br />
+> Tél: 02.96.92.74.16
+
 > **Hôtel Kastell Dinec’h**<br />
 > Lieu-dit Le Castel, 22220 Minihy-Tréguier<br />
 > Tél : 02.96.92.92.92<br />
@@ -115,6 +119,10 @@ Vous pouvez trouver des gîtes et chambres d’hôtes à Tréguier, Plouguiel, P
 > 5 rue Colvestre, 22220 Tréguier<br />
 > Tél : 02.96.92.33.49<br />
 > Email : lesaintyvestreguier@gmail.com
+
+> **B&B Gilles & Veronique de Beauregard**<br />
+> Pen Gwern, 22220, Plouguiel<br />
+> Tél: 02.96.92.74.16
 
 > **Hôtel Kastell Dinec’h**<br />
 > Lieu-dit Le Castel, 22220 Minihy-Tréguier<br />
