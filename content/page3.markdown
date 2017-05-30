@@ -97,6 +97,9 @@ You can book a room in a B&B or Hotel in Treguier, Plouguiel, Plougrescant, Port
 > **Private apartments and rooms on AirBNB**<br />
 > [www.airbnb.fr](www.airbnb.fr)
 
+> **Gîte Le Tregor à Treguier **<br />
+> Tél : 02 96 11 48 80<br />
+> [hotel-du-tregor.com](hotel-du-tregor.com)
 
 `fr`
 
@@ -188,3 +191,7 @@ Vous pouvez trouver des gîtes et chambres d’hôtes à Tréguier, Plouguiel, P
 
 > **Gîtes et chambres d’hôtes AirBNB**<br />
 > [www.airbnb.fr](www.airbnb.fr)
+
+> **Gîte Le Tregor in Treguier **<br />
+> Tél : 02 96 11 48 80<br />
+> [hotel-du-tregor.com](hotel-du-tregor.com)
