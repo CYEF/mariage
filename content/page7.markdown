@@ -22,6 +22,8 @@ Facebook
 
 [Instagram Chloé](https://www.instagram.com/chloejaverzac/)
 
+[Travel blog from Chloé](http://chloe.javerzac.com/)
+
 [Instagram Yves-Emmanuel](https://www.instagram.com/yjutard/)
 
 
@@ -41,5 +43,7 @@ chloe.javerzac@gmail.com
 Facebook
 
 [Instagram Chloé](https://www.instagram.com/chloejaverzac/)
+
+[Blog de voyage de Chloé](http://chloe.javerzac.com/)
 
 [Instagram Yves-Emmanuel](https://www.instagram.com/yjutard/)
