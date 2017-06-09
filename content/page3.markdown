@@ -101,8 +101,8 @@ You can book a room in a B&B or Hotel in Treguier, Plouguiel, Plougrescant, Port
 > Tél : 02 96 11 48 80<br />
 > [hotel-du-tregor.com](hotel-du-tregor.com)
 
-> **Camping**
-> Camping of Kermarquer, at Lezardrieux: [http://www.mairie-lezardrieux.fr/tourisme/camping.html](http://www.mairie-lezardrieux.fr/tourisme/camping.html)
+> **Camping**<br />
+> Camping of Kermarquer, at Lezardrieux: [http://www.mairie-lezardrieux.fr/tourisme/camping.html](http://www.mairie-lezardrieux.fr/tourisme/camping.html)<br />
 > Camping of "hauts de Port-Blanc": [http://www.portblanc.com/](http://www.portblanc.com/)
 
 `fr`
@@ -111,9 +111,9 @@ You can book a room in a B&B or Hotel in Treguier, Plouguiel, Plougrescant, Port
 
 Vous pouvez trouver des gîtes et chambres d’hôtes à Tréguier, Plouguiel, Plougrescant, Port-Blanc et sa région
 
-> **Camping**
-> Camping municipal de Kermarquer : [www.mairie-lezardrieux.fr/tourisme/camping.html](http://www.mairie-lezardrieux.fr/tourisme/camping.html)
-> Camping municipal de Beg Ar Vilin : [www.camping.plougrescant.fr](http://www.camping.plougrescant.fr/)
+> **Camping**<br />
+> Camping municipal de Kermarquer : [www.mairie-lezardrieux.fr/tourisme/camping.html](http://www.mairie-lezardrieux.fr/tourisme/camping.html)<br />
+> Camping municipal de Beg Ar Vilin : [www.camping.plougrescant.fr](http://www.camping.plougrescant.fr/)<br />
 > Camping des hauts de Port-Blanc : [www.portblanc.com](http://www.portblanc.com/)
 
 > **Hôtel Aigue Marine**<br />
