@@ -101,11 +101,19 @@ You can book a room in a B&B or Hotel in Treguier, Plouguiel, Plougrescant, Port
 > Tél : 02 96 11 48 80<br />
 > [hotel-du-tregor.com](hotel-du-tregor.com)
 
+> **Camping**
+> Camping of Kermarquer, at Lezardrieux: [http://www.mairie-lezardrieux.fr/tourisme/camping.html](http://www.mairie-lezardrieux.fr/tourisme/camping.html)
+> Camping of "hauts de Port-Blanc": [http://www.portblanc.com/](http://www.portblanc.com/)
+
 `fr`
 
 ## Se loger
 
 Vous pouvez trouver des gîtes et chambres d’hôtes à Tréguier, Plouguiel, Plougrescant, Port-Blanc et sa région
+
+> **Camping**
+> Camping de Kermarquer à Lezardrieux: [http://www.mairie-lezardrieux.fr/tourisme/camping.html](http://www.mairie-lezardrieux.fr/tourisme/camping.html)
+> Camping des hauts de Port-Blanc: [http://www.portblanc.com/](http://www.portblanc.com/)
 
 > **Hôtel Aigue Marine**<br />
 > Le Port de Plaisance, 22220 Tréguier<br />
