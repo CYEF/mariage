@@ -12,7 +12,7 @@ picture: "couple.png"
 
 ### 3PM - The religious ceremony
 
-The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 3PM.
+The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 4PM (updated).
 
 [Map](https://www.google.com/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
 
@@ -32,7 +32,7 @@ The mass is celebrated in the cathedral Saint-Tugdual in Tréguier at 3PM.
 
 ### 15h - La cérémonie
 
-La messe de mariage sera célébrée à la cathédrale Saint-Tugdual de Tréguier à 15h.
+La messe de mariage sera célébrée à la cathédrale Saint-Tugdual de Tréguier à 16h (heure mise à jour).
 
 [Plan d’accès](https://www.google.com/maps/place/La+Cath%C3%A9drale+Saint-Tugdual/@48.7859205,-3.2318069,16z/data=!4m2!3m1!1s0x481223af0561ff53:0xc77a75f9fa4c251)
 
